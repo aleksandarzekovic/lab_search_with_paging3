@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#64a2db</color>
+    <color name="colorPrimaryDark">#5493d6</color>
+    <color name="colorAccent">#ffc422</color>
+    <color name="titleColor">#64a2db</color>
+    <color name="titleColorAlpha">#4475b6</color>
+    <color name="greyAlpha">#55999999</color>
+    <color name="separatorBackground">#AAAAAA</color>
+    <color name="separatorText">#FFFFFF</color>
+    <color name="gray_8F8F8F">#8F8F8F</color>
+    <color name="white_FFFFFF">#FFFFFF</color>
+</resources>
