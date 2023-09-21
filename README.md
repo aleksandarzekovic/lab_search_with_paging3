@@ -1,6 +1,6 @@
 # Lab Search with Paging3
 
-In this project, I conducted an in-depth exploration into utilizing the Paging3 library for the effective implementation of caching and pagination features. By focusing on these two critical aspects, I aimed to optimize data handling, enhance the user experience, and improve the overall performance of the app.
+In this interactive lab session, I conducted an in-depth exploration into utilizing the Paging3 library for the effective implementation of caching and pagination features. The project served as a hands-on demonstration for presentation purposes, engaging participants and offering a real-world example.
 <br />
 
 ![Arch](/images/arch.png)
